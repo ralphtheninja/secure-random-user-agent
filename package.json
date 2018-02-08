@@ -1,0 +1,32 @@
+{
+  "name": "secure-random-user-agent",
+  "version": "0.0.0",
+  "description": "Get a random user agent securely (yeah it's silly).",
+  "main": "index.js",
+  "dependencies": {
+    "slump": "^2.0.3",
+    "user-agent-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "homepage": "https://github.com/ralphtheninja/secure-random-user-agent",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ralphtheninja/secure-random-user-agent.git"
+  },
+  "scripts": {
+    "test": "tape test && standard"
+  },
+  "author": "Lars-Magnus Skog <ralphtheninja@riseup.net>",
+  "keywords": [
+    "secure",
+    "random",
+    "useragent"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "license": "MIT"
+}

@@ -1,5 +1,7 @@
 # secure-random-user-agent
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ralphtheninja/secure-random-user-agent.svg)](https://greenkeeper.io/)
+
 > Get a random user agent securely (yeah it's silly).
 
 ![Node version](https://img.shields.io/node/v/secure-random-user-agent.svg)

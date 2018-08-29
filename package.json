@@ -4,7 +4,7 @@
   "description": "Get a random user agent securely (yeah it's silly).",
   "main": "index.js",
   "dependencies": {
-    "slump": "^2.0.3",
+    "slump": "^3.0.0",
     "user-agent-array": "^2.0.0"
   },
   "devDependencies": {

@@ -1,6 +1,6 @@
 {
   "name": "secure-random-user-agent",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Get a random user agent securely (yeah it's silly).",
   "main": "index.js",
   "dependencies": {
